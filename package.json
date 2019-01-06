@@ -27,6 +27,5 @@
   "main": "index.js",
   "repository": "https://github.com/centrual/gulp-qs-append",
   "author": "Oğuz Özcan <centrual@outlook.com>",
-  "license": "MIT",
-  "private": true
+  "license": "MIT"
 }
