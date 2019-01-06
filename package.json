@@ -1,0 +1,32 @@
+{
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "plugin-error": "^1.0.1",
+    "through2": "^3.0.0"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "querystring",
+    "append",
+    "appender",
+    "cache",
+    "bust",
+    "cachebust"
+  ],
+  "scripts": {
+    "test": "./node_modules/.bin/mocha tests"
+  },
+  "name": "gulp-qs-append",
+  "version": "1.0.0",
+  "description": "Appends querystrings to static assets",
+  "main": "index.js",
+  "repository": "https://github.com/centrual/gulp-qs-append",
+  "author": "Oğuz Özcan <centrual@outlook.com>",
+  "license": "MIT",
+  "private": true
+}
